@@ -1,0 +1,165 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewData["Title"] | Trang quản trị DRINK N TEA</title>
+    <link rel="shortcut icon" href="~/favicon.ico" />
+
+    <!--Font-->
+    <link rel="stylesheet" type="text/css" href="~/css/style-font.css">
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-reboot.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-utilities.min.css" type="text/css">
+
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="~/css/fontawesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/all.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/brands.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/regular.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/solid.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/svg-with-js.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/v4-font-face.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/v4-shims.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/v5-font-face.min.css" type="text/css">
+
+    <!--JQuery-->
+    <link rel="stylesheet" href="~/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/owl.theme.green.min.css" type="text/css">
+    <link rel="stylesheet" href="~/css/slicknav.min.css" type="text/css">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="~/css/style-admin.css" type="text/css">
+    <link rel="stylesheet" href="~/css/style-admin-additional.css" type="text/css">
+</head>
+<body>
+    <div class="container-scroller">
+        <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+                <a asp-controller="homeadmin" asp-action="index" class="admin__logo">
+                    <i class="fa-solid fa-mug-saucer"></i>
+                    | Admin
+                </a>
+            </div>
+            <div class="navbar-menu-wrapper d-flex align-items-stretch">
+                <ul class="navbar-nav navbar-nav-right">
+                    <li class="nav-item nav-item-logout">
+                        <a asp-controller="access" asp-action="logout" class="nav-link">
+                            <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                            <span class="menu-title" style="padding-left:10px;">Đăng xuất</span>
+                        </a>
+                    </li>
+                </ul>
+                <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" onclick="openNavbar()">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+            </div>
+        </nav>
+
+        <div class="container-fluid page-body-wrapper">
+            <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                <ul class="nav nav-bar-fixed">
+                    <li class="nav-item">
+                        <a asp-controller="HomeAdmin" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-list"></i>
+                            <span class="menu-title">Quản lí sản phẩm</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="GroupsProduct" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-table"></i>
+                            <span class="menu-title">Quản lí nhóm sản phẩm</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Bill" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-file-invoice"></i>
+                            <span class="menu-title">Quản lí hoá đơn</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Clients" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-user"></i>
+                            <span class="menu-title">Quản lí khách hàng</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="NewsManage" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-newspaper"></i>
+                            <span class="menu-title">Quản lí bài viết</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Feedback" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-comment"></i>
+                            <span class="menu-title">Tiếp nhận phản hồi</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Accounts" asp-action="Index" class="nav-link">
+                            <i class="fa-solid fa-lock"></i>
+                            <span class="menu-title">Quản lí tài khoản truy cập</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Access" asp-action="Logout" class="nav-link">
+                            <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                            <span class="menu-title">Đăng xuất</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="main-panel">
+                <div class="content-wrapper">
+                    <div class="row">
+                        @RenderBody()
+                    </div>
+                </div>
+
+                <footer class="footer">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <span class="copyright_text">Bản quyền &copy;
+                                <script>document.write(new Date().getFullYear());</script>.
+                                <a asp-controller="home" asp-action="index">DRINK N TEA</a>
+                            </span>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <!-- container-scroller -->
+
+    <!--JS Begin-->
+    <script src="~/lib/jquery/dist/jquery-3.7.1.min.js"></script>
+
+    <!--Bootstrap-->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!--Font Awesome-->
+    <script src="~/js/fontawesome.js"></script>
+    <script src="~/js/all.min.js"></script>
+    <script src="~/js/brands.min.js"></script>
+    <script src="~/js/conflict-detection.min.js"></script>
+    <script src="~/js/regular.min.js"></script>
+    <script src="~/js/solid.min.js"></script>
+    <script src="~/js/v4-shims.min.js"></script>
+
+    <script src="~/js/off-canvas.js"></script>
+    <script src="~/js/hoverable-collapse.js"></script>
+    <script src="~/js/misc.js"></script>
+    <script src="~/js/main-admin.js"></script>
+    <script src="~/js/main-admin-additional.js"></script>
+</body>
+</html>

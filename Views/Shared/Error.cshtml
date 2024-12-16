@@ -1,0 +1,41 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "404 Not Found";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .error-title {
+        padding: 250px 0;
+    }
+
+    .error-title h3 {
+        color: #111111;
+        font-weight: 600;
+        text-transform: uppercase;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .error-title h5 {
+        color: #111111;
+        text-align: center;
+    }
+
+    .error-id {
+        text-align: center;
+    }
+</style>
+
+<div class="error-title">
+    <h3>404 Not Found</h3>
+    <h5>Không tìm thấy trang yêu cầu.</h5>
+</div>
+
+
+@if (Model.ShowRequestId)
+{
+    <p class="error-id">
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}

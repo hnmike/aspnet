@@ -1,0 +1,263 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_CuaHangCafe
+build_property.RootNamespace = Web_CuaHangCafe
+build_property.ProjectDir = C:\Users\nnamn\Downloads\ASP.NET_CuaHangCafe1 (4)\ASP.NET_CuaHangCafe1\Web_CuaHangCafe\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nnamn\Downloads\ASP.NET_CuaHangCafe1 (4)\ASP.NET_CuaHangCafe1\Web_CuaHangCafe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Bill/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmlsbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmlsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Bill/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmlsbFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Clients/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2xpZW50c1xTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Feedback/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVlZGJhY2tcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Feedback/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVlZGJhY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Feedback/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmVlZGJhY2tcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/GroupsProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3JvdXBzUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/GroupsProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3JvdXBzUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/GroupsProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3JvdXBzUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/GroupsProduct/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3JvdXBzUHJvZHVjdFxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/HomeAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/HomeAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/HomeAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/HomeAdmin/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/NewsManage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c01hbmFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/NewsManage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c01hbmFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/NewsManage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c01hbmFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/NewsManage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c01hbmFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/NewsManage/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c01hbmFnZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Cart/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Products/Type.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Search/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/Components/NhomSpMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmhvbVNwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/Components/ShoppingCartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdDYXJ0U3VtbWFyeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialBackToTop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQmFja1RvVG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialCSS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsQ1NTLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialInstagram.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSW5zdGFncmFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialJavaScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSmF2YVNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialPreloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsUHJlbG9hZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_PartialSearchBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsU2VhcmNoQm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/SignUp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nnamn/Downloads/ASP.NET_CuaHangCafe1 (4)/ASP.NET_CuaHangCafe1/Web_CuaHangCafe/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6wmsrsmrp3
