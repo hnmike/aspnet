@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="CÀFE N DRINK">
+    <meta name="keywords" content="coffee, cafe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] | CÀFE N DRINK </title>
+    <link rel="shortcut icon" href="~/favicon.ico" />
+
+    @await Html.PartialAsync("_PartialCSS")
+    <!-- Additional stylesheets -->
+    <link rel="stylesheet" href="~/css/categories.css" />
+    <link rel="stylesheet" href="~/css/product-cards.css" />
+    <link rel="stylesheet" href="~/css/scroll-animations.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+    <!-- Scripts -->
+    <script src="~/js/scroll-animations.js"></script>
+    @Html.AntiForgeryToken()
+</head>
+<body>
+    <!--Page Preloder-->
+    @await Html.PartialAsync("_PartialPreloader")
+
+    <!--Header Section Begin-->
+    @await Html.PartialAsync("_PartialHeader")
+    <!--Header Section End-->
+    <!--Main Body Begin-->
+    @RenderBody()
+    <!--Main Body End-->
+    <!--Instagram Begin-->
+    @await Html.PartialAsync("_PartialInstagram")
+    <!--Instagram End-->
+    <!--Footer Section Begin-->
+    @await Html.PartialAsync("_PartialFooter")
+    <!--Footer Section End-->
+    <!--Search Begin-->
+    @await Html.PartialAsync("_PartialSearchBox")
+    <!--Search End-->
+    <!--Back to top Begin-->
+    @await Html.PartialAsync("_PartialBackToTop")
+    <!--Back to top End-->
+    <!--JavaScript Begin-->
+    @await Html.PartialAsync("_PartialJavaScript")
+    <!--JavaScript End-->
+    
+</body>
+</html>

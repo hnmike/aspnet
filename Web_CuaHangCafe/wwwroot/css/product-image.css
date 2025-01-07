@@ -1,0 +1,74 @@
+.product-image-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+}
+
+.product-image-freestyle {
+    max-width: none;
+    height: auto;
+    position: relative;
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+.product-image-large {
+    width: 300px;
+}
+
+.product-image-medium {
+    width: 200px;
+}
+
+.product-image-small {
+    width: 150px;
+}
+
+/* Remove any background and border */
+.product-card {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.product-image {
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+}
+
+.product-image img {
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+/* Optional hover effect */
+.product-image:hover img {
+    transform: scale(1.05);
+}
+
+/* For grid layout with different image sizes */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+    align-items: start;
+}
+
+.product-grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+/* Random rotation for freestyle look */
+.product-image-random {
+    transform: rotate(var(--random-rotation));
+}
